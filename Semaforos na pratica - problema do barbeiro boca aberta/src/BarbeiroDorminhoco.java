@@ -99,6 +99,7 @@ public class BarbeiroDorminhoco {
     private static void carregarConfiguracoes(String arquivo) {
         Properties prop = new Properties();
         try (FileInputStream fis = new FileInputStream(arquivo)) {
+            System.out.println("Arquivo carregado com sucesso");
             prop.load(fis);
 
             cadeirasEspera = Integer.parseInt(prop.getProperty("cadeiras_espera"));
@@ -128,4 +129,5 @@ public class BarbeiroDorminhoco {
     public static int getTempoServico() {
         return random.nextInt(maxServico - minServico + 1) + minServico;
     }
+
 }
