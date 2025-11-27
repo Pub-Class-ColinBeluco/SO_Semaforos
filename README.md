@@ -1,4 +1,5 @@
 ### Saída do problema do barbeiro dorminhoco
+Captura de tela do IP privado do host na AWS: 
 
 ```bash
 Executando em: ip-172-31-17-10
