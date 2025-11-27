@@ -1,6 +1,6 @@
 ### Saída do problema do barbeiro dorminhoco
-[Captura de tela do IP privado do host na AWS: ] https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/Capturas de tela/Instância e seu ip privado.png
-
+[Captura de tela do IP privado do host na AWS: ](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/Capturas de tela/Instância e seu ip privado.png)
+[Visite nosso site](https://exemplo.com)
 
 ```bash
 Executando em: ip-172-31-17-10
