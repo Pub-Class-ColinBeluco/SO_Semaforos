@@ -1,0 +1,4 @@
+cadeiras_espera=4
+clientes_totais=20
+interchegada_ms=10-40
+servico_ms=30-60
