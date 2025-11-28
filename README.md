@@ -10,6 +10,7 @@
 ---
 
 O endereço IP privado é o que aparecerá na saída da execução dos códigos. Os exemplos abaixos foram em um único host da nuvem. A captura abaixo comprova o IP privado
+
 ![Captura de tela do IP privado do host na AWS: ](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/blob/main/Capturas%20de%20tela/Inst%C3%A2ncia%20e%20seu%20ip%20privado.png)
 
 ### Problema do barbeiro dorminhoco
