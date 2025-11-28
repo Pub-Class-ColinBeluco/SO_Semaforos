@@ -16,10 +16,12 @@ O endereço IP privado é o que aparecerá na saída da execução dos códigos.
 ### Problema do barbeiro dorminhoco
 O código foi executado dentro da pasta do projeto, especificando o caminho para os arquivos out e o de input de arquivo (txt na raíz dos projetos)
 
+**Entrada**
 ```bash
 java -cp out src/BarbeiroDorminhoco.java /input.txt
 ```
 
+**Saída**
 ```
 Executando em: ip-172-31-17-10
 IP: 172.31.17.10
