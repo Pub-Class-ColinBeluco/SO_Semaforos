@@ -13,6 +13,10 @@ O endereço IP privado é o que aparecerá na saída da execução dos códigos.
 
 ![Captura de tela do IP privado do host na AWS: ](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/blob/main/Capturas%20de%20tela/Inst%C3%A2ncia%20e%20seu%20ip%20privado.png)
 
+
+---
+---
+
 ## Abaixo estão os comandos para executar os códigos (após o git clone) e as saídas obtidas (com atenção ao local de execução do comando)
 
 ### Problema do barbeiro dorminhoco
