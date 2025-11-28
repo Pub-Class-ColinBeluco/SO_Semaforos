@@ -1,0 +1,6 @@
+produtores=3
+consumidores=3
+buffer=10
+itens_por_produtor=500
+delay_produtor_ms=2-6
+delay_consumidor_ms=1-4
