@@ -1,3 +1,12 @@
+# Aplicação prática de semáforos
+## Integrantes
+
+| Nome | RA | Projeto |
+|----------|----------|----------|
+| Colin Beluco   | 40975   | [Barbeiro dorminhoco]()   |
+| Ana Catarina   | 41383   | [Filósofos na mesa]()   |
+| Joyce Lidia   | 41397   | [Sei lá o que de produção]()   |
+
 ### Saída do problema do barbeiro dorminhoco
 [Captura de tela do IP privado do host na AWS: ](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/blob/main/Capturas%20de%20tela/Inst%C3%A2ncia%20e%20seu%20ip%20privado.png)
 
