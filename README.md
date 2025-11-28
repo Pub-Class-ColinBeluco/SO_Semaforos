@@ -3,9 +3,9 @@
 
 | Nome | RA | Projeto |
 |----------|----------|----------|
-| Colin Beluco   | 40975   | [Barbeiro dorminhoco](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Semaforos%20na%20pratica%20-%20problema%20do%20barbeiro%20boca%20aberta)   |
 | Ana Catarina   | 41383   | [Filósofos na mesa]()   |
-| Joyce Lidia   | 41397   | [Sei lá o que de produção]()   |
+| Colin Beluco   | 40975   | [Barbeiro dorminhoco](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Semaforos%20na%20pratica%20-%20problema%20do%20barbeiro%20boca%20aberta)   |
+| Joyce Lidia   | 41397   | [Produtor Consumidor](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Semaforos%20na%20pratica%20-%20produtor%20consumidor)   |
 
 ---
 
