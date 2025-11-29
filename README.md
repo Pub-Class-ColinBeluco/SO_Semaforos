@@ -3,7 +3,7 @@
 
 | Nome | RA | Projeto |
 |----------|----------|----------|
-| Ana Catarina   | 41383   | [Filósofos na mesa]()   |
+| Ana Catarina   | 41383   | [Filósofos na mesa](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Semaforos%20na%20pratica%20-%20produtor%20consumidor)   |
 | Colin Beluco   | 40975   | [Barbeiro dorminhoco](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Semaforos%20na%20pratica%20-%20problema%20do%20barbeiro%20boca%20aberta)   |
 | Joyce Lidia   | 41397   | [Produtor Consumidor](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Semaforos%20na%20pratica%20-%20produtor%20consumidor)   |
 
@@ -19,6 +19,7 @@ O endereço IP privado é o que aparecerá na saída da execução dos códigos.
 
 ## Abaixo estão os comandos para executar os códigos (após o git clone) e as saídas obtidas (com atenção ao local de execução do comando)
 Os códigos foram executados dentro da pasta do projeto, especificando o caminho para os arquivos out e o de input de arquivo (txt na raíz dos projetos)
+> As capturas de tela estão [aqui](), evidenciando que os códigos foram testados em máquina virtual na nuvem
 ### Jantar dos filósofos
 
 
