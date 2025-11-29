@@ -19,7 +19,7 @@ O endereço IP privado é o que aparecerá na saída da execução dos códigos.
 
 ## Abaixo estão os comandos para executar os códigos (após o git clone) e as saídas obtidas (com atenção ao local de execução do comando)
 Os códigos foram executados dentro da pasta do projeto, especificando o caminho para os arquivos out e o de input de arquivo (txt na raíz dos projetos)
-> As capturas de tela estão [aqui](), evidenciando que os códigos foram testados em máquina virtual na nuvem
+> As capturas de tela estão [aqui](https://github.com/Pub-Class-ColinBeluco/SO_Semaforos/tree/main/Capturas%20de%20tela), evidenciando que os códigos foram testados em máquina virtual na nuvem
 ### Jantar dos filósofos
 
 
